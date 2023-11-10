@@ -90,7 +90,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4263922822445036487}
-  - component: {fileID: 1256791195242761781}
   m_Layer: 0
   m_Name: Bush_01
   m_TagString: Untagged
@@ -114,29 +113,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!205 &1256791195242761781
-LODGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4263922822445002727}
-  serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.028796732, y: 0.38929102, z: -0.042423368}
-  m_Size: 0.82927555
-  m_FadeMode: 0
-  m_AnimateCrossFading: 0
-  m_LastLODIsBillboard: 0
-  m_LODs:
-  - screenRelativeHeight: 0.07196207
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 7688825897537880626}
-  - screenRelativeHeight: 0.016472593
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 4712083051103105918}
-  m_Enabled: 1
 --- !u!1 &8284389702184043545
 GameObject:
   m_ObjectHideFlags: 0

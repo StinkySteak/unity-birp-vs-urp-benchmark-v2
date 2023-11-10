@@ -185,7 +185,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8903058273634951509}
-  - component: {fileID: 6757531004235149912}
   m_Layer: 0
   m_Name: Grass_01
   m_TagString: Untagged
@@ -209,26 +208,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!205 &6757531004235149912
-LODGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8903058273634794869}
-  serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.026811123, y: 0.18182376, z: -0.0010645688}
-  m_Size: 0.3790605
-  m_FadeMode: 0
-  m_AnimateCrossFading: 0
-  m_LastLODIsBillboard: 0
-  m_LODs:
-  - screenRelativeHeight: 0.051319983
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 6128016933341854088}
-  - screenRelativeHeight: 0.01
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 3720084168579074821}
-  m_Enabled: 1
