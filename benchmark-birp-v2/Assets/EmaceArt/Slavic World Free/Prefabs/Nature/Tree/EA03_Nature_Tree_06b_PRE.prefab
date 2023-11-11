@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4912847505212162}
-  - component: {fileID: 205064190486894276}
   - component: {fileID: 5990252409940744515}
   m_Layer: 0
   m_Name: EA03_Nature_Tree_06b_PRE
@@ -35,33 +34,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!205 &205064190486894276
-LODGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1034720945285278}
-  serializedVersion: 2
-  m_LocalReferencePoint: {x: -0.0033512115, y: 8.612084, z: -0.044501066}
-  m_Size: 17.225145
-  m_FadeMode: 0
-  m_AnimateCrossFading: 0
-  m_LastLODIsBillboard: 0
-  m_LODs:
-  - screenRelativeHeight: 0.59936845
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 23945060274056012}
-  - screenRelativeHeight: 0.22798866
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 23886217801361604}
-  - screenRelativeHeight: 0.036346156
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 23782226275068552}
-  m_Enabled: 1
 --- !u!65 &5990252409940744515
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -130,6 +102,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -154,6 +127,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1604293367756944
 GameObject:
   m_ObjectHideFlags: 0
@@ -209,6 +183,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -233,6 +208,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1736919718935400
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,6 +264,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -312,3 +289,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
