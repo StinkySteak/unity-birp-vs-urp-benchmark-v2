@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
     guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
+  - enabled: 1
+    path: Assets/EmaceArt/Slavic World Free/Scene/Slavica Free 2022 Version.unity
+    guid: 4e4c5b0f6c1c69448be7c5631ed01457
   m_configObjects: {}
