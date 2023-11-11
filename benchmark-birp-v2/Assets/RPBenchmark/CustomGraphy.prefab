@@ -3049,7 +3049,7 @@ GameObject:
   - component: {fileID: 6745109161580083574}
   - component: {fileID: 6745109161580100984}
   m_Layer: 5
-  m_Name: '[Graphy]'
+  m_Name: CustomGraphy
   m_TagString: Untagged
   m_Icon: {fileID: 1638116407661442457, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
