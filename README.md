@@ -1,7 +1,5 @@
 # Unity Benchmark BiRP vs URP (2.0)
 
-## WARNING: This Project is still in Development!
-
 ## Tested Unity Versions
 - 2020.3.48f1 (URP 10)
 - 2021.3.32f1 (URP 12)
